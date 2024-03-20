@@ -256,7 +256,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./backgroundDataScience.jpg");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/uspp-7da6a.appspot.com/o/backgroundDataScience.jpg?alt=media&token=f62ae028-672f-45da-86e5-c64f87918f97");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -470,7 +470,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./backgroundDataScienceInvert.jpg");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/uspp-7da6a.appspot.com/o/backgroundDataScienceInvert.jpg?alt=media&token=c56e8eba-4caf-4095-b8d6-8fd10deb0431");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
